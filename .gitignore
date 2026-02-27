@@ -10,6 +10,9 @@ __pycache__/
 .Python
 build/
 develop-eggs/
+cats_dogs_data/
+.idea/
+kagglecatsanddogs_5340.zip
 dist/
 downloads/
 eggs/
