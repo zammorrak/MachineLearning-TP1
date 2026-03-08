@@ -4,7 +4,7 @@ Dans le cadre de ce rapport, nous avons documenté une étude expérimentale vis
 L’objectif principal est de se familiariser avec l’architecture d’un modèle d’apprentissage automatique (machine learning) et d’en comprendre le fonctionnement.  
 Le modèle fourni, dans ce cas-ci, travaille à différencier des photos de chats et de chiens.
 
-## 2 Explication du projet
+# 2. Explication du projet
 
 Le projet s’appuie initialement sur un notebook Python (`cats_vs_dogs_TP.ipynb`) qui nous fournit une architecture de base de réseau de neurones convolutif (CNN).  
 Ce modèle de départ offre une précision limitée d’environ **78 %** sur les données de test.  
@@ -12,7 +12,7 @@ Il va falloir “jouer” avec les différents paramètres afin de rédiger un r
 
 Nous nous sommes fixé pour objectif d’atteindre une précision de **90 % ou plus** avec notre modèle.
 
-## 3 Explication du Git
+# 3. Explication du Git
 
 La branche `main` contient le projet de base fourni par le professeur, ainsi que quelques modifications, notamment :
 
